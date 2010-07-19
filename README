@@ -1,0 +1,3 @@
+The Windows File Hider is a simple batch script that toggles the names of your files. The only file you ever need to run is lockG893.bat. The name is arbitrary and you can change it if you want as long as it ends in ".bat". Double clicking it will rename all of your files and folders to non-descript data-y looking names, so a snooper will think they are just happy little system files. 
+
+To get all of your files back, simply run it again. It's just a toggle, so you can run it as many times as you want.
